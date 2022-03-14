@@ -2,7 +2,7 @@
 A target based interactive 3D ball game, complete with a user interface, audio and other functionalities. 
 
 
-## Tech Stack
+## Tech Stack:
 Unity, C#, Game Development, UI/UX
 
 - Unity Editor and its built-in capabilities are used to set up the game environment consisting of game objects of different materials and textures.
@@ -28,4 +28,10 @@ Unity, C#, Game Development, UI/UX
 
 
   [Unity Link](https://learn.unity.com/submission/61ccfc2eedbc2a3e1caaf5be)
+ 
+ 
+## How Can You Contribute:
+- Adding more game objects like enemies or hurdles to customize it even more.  
+- Enhancing the User Interface.
+
 
